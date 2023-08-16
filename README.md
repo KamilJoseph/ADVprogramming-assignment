@@ -12,8 +12,8 @@ C++
 
 What I learned:
 ----------------------
-Object oriented Language
-Algorithms and data structures
-Memory management 
-Standard template library
+Object oriented Language,
+Algorithms and data structures,
+Memory management,
+Standard template library,
 Classes and function
